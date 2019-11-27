@@ -1,5 +1,8 @@
 ## [next]
 
+## 0.16.2
+- Added default render function to support ChainShape's in Box2D
+
 ## 0.16.1
 - Added `Bgm` class for easy looping background music management.
 - Added options for flip rendering of PositionComponents easily (horizontal and vertical).
